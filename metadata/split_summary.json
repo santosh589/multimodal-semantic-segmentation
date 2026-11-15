@@ -1,0 +1,46 @@
+{
+    "source_config": "data/data-config.json",
+    "random_seed": 42,
+    "validation_fraction": 0.2,
+    "provided_training_areas": [
+        "area1",
+        "area3",
+        "area5",
+        "area7",
+        "area13",
+        "area17",
+        "area21",
+        "area23",
+        "area26",
+        "area32",
+        "area37"
+    ],
+    "training_areas": [
+        "area1",
+        "area5",
+        "area7",
+        "area13",
+        "area17",
+        "area21",
+        "area23",
+        "area26",
+        "area32"
+    ],
+    "validation_areas": [
+        "area3",
+        "area37"
+    ],
+    "test_areas": [
+        "area11",
+        "area15",
+        "area28",
+        "area30",
+        "area34"
+    ],
+    "counts": {
+        "provided_training": 11,
+        "training": 9,
+        "validation": 2,
+        "test": 5
+    }
+}

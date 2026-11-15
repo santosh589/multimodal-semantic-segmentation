@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Private data and model weights
+data/*
+!data/.gitkeep
+!data/examples/
+!data/examples/**
+models/*
+!models/.gitkeep
+*.pth
+*.pt
+*.ckpt
+
+# Notebooks and system files
+.ipynb_checkpoints/
+.DS_Store
+
+# Local configuration
+.env

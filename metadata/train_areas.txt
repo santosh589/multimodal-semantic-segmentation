@@ -1,0 +1,9 @@
+area1
+area5
+area7
+area13
+area17
+area21
+area23
+area26
+area32

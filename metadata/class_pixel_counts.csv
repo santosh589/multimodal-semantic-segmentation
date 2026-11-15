@@ -1,0 +1,97 @@
+area_id,split,class_id,class_name,red,green,blue,pixel_count,percentage,class_present
+area1,train,0,Impervious surfaces,255,255,255,1753163,35.56175760576611,True
+area1,train,1,Building,0,0,255,1852765,37.58211862242543,True
+area1,train,2,Low vegetation,0,255,255,621535,12.60742840996521,True
+area1,train,3,Tree,0,255,0,626123,12.70049297035991,True
+area1,train,4,Car,255,255,0,76323,1.5481618227996408,True
+area1,train,5,Clutter/background,255,0,0,2,4.056868369428982e-05,True
+area5,train,0,Impervious surfaces,255,255,255,1684911,34.92000823202369,True
+area5,train,1,Building,0,0,255,2426970,50.29928131448755,True
+area5,train,2,Low vegetation,0,255,255,318578,6.6025721136259685,True
+area5,train,3,Tree,0,255,0,327258,6.78246628694074,True
+area5,train,4,Car,255,255,0,67342,1.3956720529220472,True
+area5,train,5,Clutter/background,255,0,0,0,0.0,False
+area7,train,0,Impervious surfaces,255,255,255,1492394,30.930067383631993,True
+area7,train,1,Building,0,0,255,1305092,27.048208115175377,True
+area7,train,2,Low vegetation,0,255,255,637230,13.20667788725485,True
+area7,train,3,Tree,0,255,0,1282703,26.58419306375321,True
+area7,train,4,Car,255,255,0,107640,2.230853550184568,True
+area7,train,5,Clutter/background,255,0,0,0,0.0,False
+area13,train,0,Impervious surfaces,255,255,255,1185224,16.442161442885595,True
+area13,train,1,Building,0,0,255,1302768,18.072804616363808,True
+area13,train,2,Low vegetation,0,255,255,2549104,35.36274957535912,True
+area13,train,3,Tree,0,255,0,2144306,29.74714099187009,True
+area13,train,4,Car,255,255,0,27042,0.3751433735213869,True
+area13,train,5,Clutter/background,255,0,0,0,0.0,False
+area17,train,0,Impervious surfaces,255,255,255,385227,12.873444066600365,True
+area17,train,1,Building,0,0,255,500562,16.727687594238233,True
+area17,train,2,Low vegetation,0,255,255,1328765,44.40442104306353,True
+area17,train,3,Tree,0,255,0,769763,25.723796424026606,True
+area17,train,4,Car,255,255,0,8099,0.2706508720712628,True
+area17,train,5,Clutter/background,255,0,0,0,0.0,False
+area21,train,0,Impervious surfaces,255,255,255,1382431,28.532923787181854,True
+area21,train,1,Building,0,0,255,989524,20.423451787168645,True
+area21,train,2,Low vegetation,0,255,255,630889,13.021342660263965,True
+area21,train,3,Tree,0,255,0,1805045,37.25553855305159,True
+area21,train,4,Car,255,255,0,37149,0.7667432123339384,True
+area21,train,5,Clutter/background,255,0,0,0,0.0,False
+area23,train,0,Impervious surfaces,255,255,255,801652,16.545835141024693,True
+area23,train,1,Building,0,0,255,885284,18.271972273488878,True
+area23,train,2,Low vegetation,0,255,255,1345728,27.775385869006602,True
+area23,train,3,Tree,0,255,0,1789171,36.927904383825265,True
+area23,train,4,Car,255,255,0,15447,0.31882102885467567,True
+area23,train,5,Clutter/background,255,0,0,7756,0.16008130379988764,True
+area26,train,0,Impervious surfaces,255,255,255,1650663,30.91080010898703,True
+area26,train,1,Building,0,0,255,1558464,29.184254557745803,True
+area26,train,2,Low vegetation,0,255,255,501956,9.399775471738746,True
+area26,train,3,Tree,0,255,0,1085625,20.329732579163064,True
+area26,train,4,Car,255,255,0,96243,1.8022746828936242,True
+area26,train,5,Clutter/background,255,0,0,447134,8.373162599471732,True
+area32,train,0,Impervious surfaces,255,255,255,2616688,51.72444602581589,True
+area32,train,1,Building,0,0,255,1270914,25.122338848366244,True
+area32,train,2,Low vegetation,0,255,255,362596,7.1674870031034414,True
+area32,train,3,Tree,0,255,0,596274,11.786633457866335,True
+area32,train,4,Car,255,255,0,156826,3.1000019767143057,True
+area32,train,5,Clutter/background,255,0,0,55602,1.0990926881337841,True
+area3,validation,0,Impervious surfaces,255,255,255,2059368,34.140478464838274,True
+area3,validation,1,Building,0,0,255,1632260,27.059824848699662,True
+area3,validation,2,Low vegetation,0,255,255,1157157,19.18350369576339,True
+area3,validation,3,Tree,0,255,0,1127394,18.690088696332023,True
+area3,validation,4,Car,255,255,0,55863,0.9261042943666506,True
+area3,validation,5,Clutter/background,255,0,0,0,0.0,False
+area37,validation,0,Impervious surfaces,255,255,255,921116,23.13187779066906,True
+area37,validation,1,Building,0,0,255,922579,23.168617937629644,True
+area37,validation,2,Low vegetation,0,255,255,1554547,39.039156006248085,True
+area37,validation,3,Tree,0,255,0,565134,14.192143685867977,True
+area37,validation,4,Car,255,255,0,18644,0.46820457958523565,True
+area37,validation,5,Clutter/background,255,0,0,0,0.0,False
+area11,test,0,Impervious surfaces,255,255,255,1608732,33.11894047849916,True
+area11,test,1,Building,0,0,255,904397,18.618806868970843,True
+area11,test,2,Low vegetation,0,255,255,808152,16.637412561930795,True
+area11,test,3,Tree,0,255,0,1469029,30.242877006356025,True
+area11,test,4,Car,255,255,0,67128,1.3819630842431752,True
+area11,test,5,Clutter/background,255,0,0,0,0.0,False
+area15,test,0,Impervious surfaces,255,255,255,855112,17.372433457565517,True
+area15,test,1,Building,0,0,255,1075170,21.843126140868936,True
+area15,test,2,Low vegetation,0,255,255,1309897,26.611833851898577,True
+area15,test,3,Tree,0,255,0,1643189,33.38298557464241,True
+area15,test,4,Car,255,255,0,31684,0.6436913312753252,True
+area15,test,5,Clutter/background,255,0,0,7183,0.1459296437492318,True
+area28,test,0,Impervious surfaces,255,255,255,1246859,25.337826784684793,True
+area28,test,1,Building,0,0,255,1597642,32.46620208053788,True
+area28,test,2,Low vegetation,0,255,255,1208545,24.559235544273157,True
+area28,test,3,Tree,0,255,0,787708,16.007270157179352,True
+area28,test,4,Car,255,255,0,71779,1.4586443766118622,True
+area28,test,5,Clutter/background,255,0,0,8406,0.1708210567129566,True
+area30,test,0,Impervious surfaces,255,255,255,1381149,27.863486469812837,True
+area30,test,1,Building,0,0,255,1289563,26.015818135821153,True
+area30,test,2,Low vegetation,0,255,255,1105366,22.29980297939696,True
+area30,test,3,Tree,0,255,0,1098667,22.16465644860175,True
+area30,test,4,Car,255,255,0,82097,1.6562359663672959,True
+area30,test,5,Clutter/background,255,0,0,0,0.0,False
+area34,test,0,Impervious surfaces,255,255,255,790660,22.29509860870644,True
+area34,test,1,Building,0,0,255,903378,25.473530456752595,True
+area34,test,2,Low vegetation,0,255,255,832872,23.485396211305176,True
+area34,test,3,Tree,0,255,0,993049,28.002081018740448,True
+area34,test,4,Car,255,255,0,26381,0.7438937044953389,True
+area34,test,5,Clutter/background,255,0,0,0,0.0,False

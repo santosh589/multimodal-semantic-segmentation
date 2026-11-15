@@ -1,0 +1,21 @@
+{
+    "experiment": "early_fusion",
+    "initialization": "checkpoint",
+    "input_channels": 4,
+    "number_of_classes": 6,
+    "epochs": 20,
+    "batch_size": 8,
+    "learning_rate": 1e-05,
+    "optimizer": "Adam",
+    "loss": "CrossEntropyLoss",
+    "device": "mps",
+    "total_parameters": 14332070,
+    "trainable_parameters": 14332070,
+    "best_epoch": 17,
+    "best_validation_loss": 0.2460495688021183,
+    "best_validation_accuracy": 0.9261091232299805,
+    "best_validation_macro_f1": 0.8994226996441237,
+    "best_validation_mean_iou": 0.821529578054589,
+    "total_training_seconds": 795.668967962265,
+    "best_model_path": "./outputs/fine_tuning/early_fusion/epochs_20/best_model_state_dict.pt"
+}

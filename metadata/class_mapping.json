@@ -1,0 +1,68 @@
+{
+    "number_of_classes": 6,
+    "ignore_index": 255,
+    "classes": [
+        {
+            "id": 0,
+            "name": "Impervious surfaces",
+            "color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Building",
+            "color": [
+                0,
+                0,
+                255
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Low vegetation",
+            "color": [
+                0,
+                255,
+                255
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Tree",
+            "color": [
+                0,
+                255,
+                0
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Car",
+            "color": [
+                255,
+                255,
+                0
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Clutter/background",
+            "color": [
+                255,
+                0,
+                0
+            ]
+        }
+    ],
+    "color_to_class": {
+        "255,255,255": 0,
+        "0,0,255": 1,
+        "0,255,255": 2,
+        "0,255,0": 3,
+        "255,255,0": 4,
+        "255,0,0": 5
+    }
+}

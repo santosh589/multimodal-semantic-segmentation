@@ -1,0 +1,69 @@
+{
+    "training_areas": [
+        "area1",
+        "area5",
+        "area7",
+        "area13",
+        "area17",
+        "area21",
+        "area23",
+        "area26",
+        "area32"
+    ],
+    "multispectral": {
+        "number_of_channels": 3,
+        "dtypes": [
+            "uint8"
+        ],
+        "raw_min": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "raw_max": [
+            255.0,
+            255.0,
+            255.0
+        ],
+        "scaling_divisor": 255.0,
+        "scaled_min": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "scaled_max": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "mean": [
+            0.4628131643805715,
+            0.3186772799097454,
+            0.3149970244507718
+        ],
+        "std": [
+            0.22192801890415206,
+            0.16224046313396984,
+            0.1545989784113043
+        ],
+        "valid_pixel_count_per_channel": [
+            44869950,
+            44869950,
+            44869950
+        ],
+        "normalization_formula": "(scaled_value - mean) / std"
+    },
+    "dsm": {
+        "dtypes": [
+            "uint8"
+        ],
+        "raw_min": 0.0,
+        "raw_max": 249.0,
+        "scaling_divisor": 255.0,
+        "scaled_min": 0.0,
+        "scaled_max": 0.9764705882352941,
+        "valid_pixel_count": 44869950,
+        "apply_mean_std_normalization": false
+    },
+    "range_warnings": []
+}

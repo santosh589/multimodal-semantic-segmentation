@@ -1,0 +1,17 @@
+area_id,split,label_path,width,height,channels,dtype,total_pixels,valid_pixels,unknown_pixels,unknown_percentage,number_of_observed_colors,number_of_expected_colors,unexpected_colors,missing_expected_colors,status
+area1,train,data/labels/top_mosaic_09cm_area1.tif,1919,2569,3,uint8,4929911,4929911,0,0.0,6,6,[],[],ready
+area5,train,data/labels/top_mosaic_09cm_area5.tif,1887,2557,3,uint8,4825059,4825059,0,0.0,5,6,[],"[(255, 0, 0)]",ready
+area7,train,data/labels/top_mosaic_09cm_area7.tif,1887,2557,3,uint8,4825059,4825059,0,0.0,5,6,[],"[(255, 0, 0)]",ready
+area13,train,data/labels/top_mosaic_09cm_area13.tif,2818,2558,3,uint8,7208444,7208444,0,0.0,5,6,[],"[(255, 0, 0)]",ready
+area17,train,data/labels/top_mosaic_09cm_area17.tif,2336,1281,3,uint8,2992416,2992416,0,0.0,5,6,[],"[(255, 0, 0)]",ready
+area21,train,data/labels/top_mosaic_09cm_area21.tif,1903,2546,3,uint8,4845038,4845038,0,0.0,5,6,[],"[(255, 0, 0)]",ready
+area23,train,data/labels/top_mosaic_09cm_area23.tif,1903,2546,3,uint8,4845038,4845038,0,0.0,6,6,[],[],ready
+area26,train,data/labels/top_mosaic_09cm_area26.tif,2995,1783,3,uint8,5340085,5340085,0,0.0,6,6,[],[],ready
+area32,train,data/labels/top_mosaic_09cm_area32.tif,1980,2555,3,uint8,5058900,5058900,0,0.0,6,6,[],[],ready
+area3,validation,data/labels/top_mosaic_09cm_area3.tif,2006,3007,3,uint8,6032042,6032042,0,0.0,5,6,[],"[(255, 0, 0)]",ready
+area37,validation,data/labels/top_mosaic_09cm_area37.tif,1996,1995,3,uint8,3982020,3982020,0,0.0,5,6,[],"[(255, 0, 0)]",ready
+area11,test,data/labels/top_mosaic_09cm_area11.tif,1893,2566,3,uint8,4857438,4857438,0,0.0,5,6,[],"[(255, 0, 0)]",ready
+area15,test,data/labels/top_mosaic_09cm_area15.tif,1919,2565,3,uint8,4922235,4922235,0,0.0,6,6,[],[],ready
+area28,test,data/labels/top_mosaic_09cm_area28.tif,1917,2567,3,uint8,4920939,4920939,0,0.0,6,6,[],[],ready
+area30,test,data/labels/top_mosaic_09cm_area30.tif,1934,2563,3,uint8,4956842,4956842,0,0.0,5,6,[],"[(255, 0, 0)]",ready
+area34,test,data/labels/top_mosaic_09cm_area34.tif,1388,2555,3,uint8,3546340,3546340,0,0.0,5,6,[],"[(255, 0, 0)]",ready

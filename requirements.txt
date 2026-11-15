@@ -1,0 +1,15 @@
+torch
+torchvision
+numpy
+pandas
+rasterio
+Pillow
+opencv-python-headless
+scikit-learn
+matplotlib
+tqdm
+PyYAML
+albumentations
+tensorboard
+pytest
+segmentation-models-pytorch==0.3.0
